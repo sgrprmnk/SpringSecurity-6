@@ -28,7 +28,7 @@ The project includes a basic configuration for Spring Security in the applicatio
 ## Features =>
 This sample project demonstrates the following features of Spring Security Version 6:
 
--    Authentication using various authentication mechanisms such as form-based login, OAuth, or JWT.
+-    Authentication using various authentication mechanisms of JWT.
 -    Authorization using role-based or permission-based access control.
 -    Password hashing and encryption.
 -    Session management and CSRF protection.
