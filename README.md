@@ -1,6 +1,10 @@
 # SpringSecurity-6
 ### This is a sample project demonstrating the usage of Spring Security Version 6. It provides an example configuration for securing a Spring Boot application using Spring Security.
 ## Testing Trial
+Video Link:
+https://drive.google.com/file/d/1oUEOLleirHsNJey3_Q1A0_vw8w4rQm0B/view?usp=sharing
+
+Youtube Link: 
 https://youtu.be/5EzRV8KclFA
 
 ## Prerequisites =>
