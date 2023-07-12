@@ -13,5 +13,4 @@
     -   spring.jpa.hibernate.ddl-auto=update
     -   spring.jpa.show-sql=true
     -   spring.mvc.pathmatch.matching-strategy = ANT_PATH_MATCHER
-    
--to check the swagger http://localhost:8888/swagger-ui/
+
