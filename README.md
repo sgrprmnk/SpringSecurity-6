@@ -1,13 +1,13 @@
 # SpringSecurity-6
 ### This is a sample project demonstrating the usage of Spring Security Version 6. It provides an example configuration for securing a Spring Boot application using Spring Security.
 
-## Prerequisites
+## Prerequisites =>
 To run this project, you need to have the following installed on your machine:
 
 -    Java Development Kit (JDK) 8 or higher
 -    Maven build tool
 -    Spring Boot
-## Getting Started
+## Getting Started =>
 Follow these steps to get started with the project:
 
 1. Clone the repository:
@@ -22,10 +22,10 @@ Follow these steps to get started with the project:
 4. Run the application:
    <> mvn spring-boot:run </>
 
-## Configuration:
+## Configuration =>
 The project includes a basic configuration for Spring Security in the application.yml file. You can customize the security configuration by modifying this file according to your requirements.
 
-## Features:
+## Features =>
 This sample project demonstrates the following features of Spring Security Version 6:
 
 -    Authentication using various authentication mechanisms such as form-based login, OAuth, or JWT.
@@ -34,14 +34,14 @@ This sample project demonstrates the following features of Spring Security Versi
 -    Session management and CSRF protection.
 -    Customizing authentication and authorization logic.
 
-## Resources:
+## Resources =>
 For more information about Spring Security Version 6 and its features, refer to the official documentation:
 <a href="https://spring.io/projects/spring-security/">Spring Security Help</a>
 
-## Contributing:
+## Contributing =>
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## Installation and Run
+## Installation and Run =>
 -  You can clone this repo and start the serve on localhost
 -   Before running the API server, we should update the database config inside the application.properties file.
 -   Update the port number, username and password as per our local database config.
@@ -56,5 +56,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
     -   spring.jpa.show-sql=true
     -   spring.mvc.pathmatch.matching-strategy = ANT_PATH_MATCHER
 
-## Contact:
+## Contact =>
 For any questions or inquiries, please contact sgrprmnk@gmail.com
