@@ -9,7 +9,6 @@ https://youtu.be/5EzRV8KclFA
 
 ## Prerequisites =>
 To run this project, you need to have the following installed on your machine:
-
 -    Java Development Kit (JDK) 8 or higher
 -    Maven build tool
 -    Spring Boot
