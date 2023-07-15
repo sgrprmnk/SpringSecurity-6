@@ -23,13 +23,13 @@ public class Master implements UserDetails {
     @Id
     @GeneratedValue
     private Integer id;
-    @Pattern(regexp="^[A-Z][a-z][0-9]*]",message = "{name.invalid}")
+   // @Pattern(regexp="^[A-Z][a-z][0-9]*]",message = "{name.invalid}")
     private String firstName;
-    @Pattern(regexp="^[A-Z][a-z][0-9]*]",message = "{name.invalid}")
+    // @Pattern(regexp="^[A-Z][a-z][0-9]*]",message = "{name.invalid}")
     private String lastName;
     private String email;
-    @Size(min=6, max=12)
-    @Pattern(regexp="(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*\\W).*$",message = "Password should be minimum of 6 and maximum of 12 length, One Alphabet, One UpperCase, One Special character, One digit from 0 to 9")
+   // @Size(min=6, max=12)
+  //  @Pattern(regexp="(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*\\W).*$",message = "Password should be minimum of 6 and maximum of 12 length, One Alphabet, One UpperCase, One Special character, One digit from 0 to 9")
     private String password; //pass
 @Enumerated(EnumType.STRING)
     private Role role;
