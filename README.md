@@ -1,4 +1,4 @@
-# SpringSecurity-6
+# SpringSecurity-6 with JWT
 ### This is a sample project demonstrating the usage of Spring Security Version 6. It provides an example configuration for securing a Spring Boot application using Spring Security.
 ## Testing Trial
 Video Link:
